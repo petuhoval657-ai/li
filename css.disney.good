@@ -424,7 +424,7 @@ width: 95%;
   color: grey !important;
 
 }
-.hh {
+.first-character {
 	color: pink;
 float: left;
 
@@ -439,4 +439,4 @@ float: left;
  padding-left: 3px;
 
  font-family: 'Montserrat', sans-serif;
- 
+}
